@@ -1,0 +1,13 @@
+.plus{
+  border-right:4px solid #28a745;
+}
+
+.minus{
+  border-right:4px solid #dc3545;
+}
+
+.overflow-scroll{
+  height:100vh;
+  overflow-y: scroll;
+  background-color: #333;
+}
